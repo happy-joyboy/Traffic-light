@@ -9,6 +9,14 @@ This project simulates a traffic light system with two sets of traffic lights, e
 - **Automatic Mode**: The lights change according to a pre-programmed sequence, mimicking the behavior of real traffic lights.
 - **Manual Mode**: The user can manually cycle through the lights using a button, providing more control for testing or demonstration purposes.
 
+## 🎥 Demo Video
+
+Check out the demo video to see the Traffic Light Control System in action:
+
+[![Traffic Light Control System Demo](https://img.youtube.com/vi/35RT2CUoXsM/hqdefault.jpg)](https://www.youtube.com/watch?v=35RT2CUoXsM)
+
+> *Click the image above to watch the video on YouTube.*
+
 ## 💻 Code Features
 
 - **Port Definitions**: The code defines the pins used for the traffic light LEDs, making it easy to reconfigure if the hardware setup changes.
@@ -75,3 +83,4 @@ This project is designed for use with a PIC16F877A microcontroller. The LEDs are
 - Implement a more sophisticated timing algorithm for the automatic mode.
 - Integrate with a real-time clock module for more accurate timing.
 
+  
